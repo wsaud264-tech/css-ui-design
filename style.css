@@ -1,0 +1,129 @@
+.research {
+    width: 280px;
+    height: 180px;
+    border: 2px solid lightgray;
+    border-radius: 15px;
+    padding: 20px;
+    display: inline-block;
+     border-top: 20px solid #e83e9f;
+     margin: 10px;
+}
+
+.prototype {
+    width: 280px;
+    height: 180px;
+    border: 2px solid lightgray;
+    border-radius: 15px;
+    padding: 20px;
+    display: inline-block;
+     border-top: 20px solid #28b9c3;
+      margin: 10px;
+}
+
+.design {
+    width: 280px;
+    height: 180px;
+    border: 2px solid lightgray;
+    border-radius: 15px;
+    padding: 20px;
+    display: inline-block;
+     border-top: 20px solid #35c54a;
+      margin: 10px;
+}
+
+ .improve {
+    width: 280px;
+    height: 180px;
+    border: 2px solid lightgray;
+    border-radius: 15px;
+    padding: 20px;
+  display: inline-block;
+  border-top: 20px solid #eeee00;
+   margin: 10px;
+}
+
+.build {
+    width: 280px;
+    height: 180px;
+    border: 2px solid lightgray;
+    border-radius: 15px;
+    padding: 20px;
+    display: inline-block;
+    border-top: 20px solid #a855d8;
+     margin: 10px;
+}
+
+.support {
+    width: 280px;
+    height: 180px;
+    border: 2px solid lightgray;
+    border-radius: 15px;
+    padding: 20px;
+    display: inline-block;
+    border-top: 20px solid #e83e9f;
+     margin: 10px;
+}
+
+.research-icon {
+    width: 40px;
+    height: 30px;
+    border-radius: 50px;
+    background-color: #e83e9f;
+    text-align: center;
+    font-size: 20px;
+}
+
+.prototype-icon {
+    width: 40px;
+    height: 30px;
+    border-radius: 50px;
+     background-color: lightblue;
+    text-align: center;
+    font-size: 20px;
+}
+.design-icon {
+    width: 40px;
+    height: 30px;
+    border-radius: 50px;
+     background-color: lightgreen;
+    text-align: center;
+    font-size: 20px;
+}
+
+.improve-icon {
+    width: 40px;
+    height: 30px;
+    border-radius: 50px;
+    background-color: yellow;
+    text-align: center;
+    font-size: 20px;
+}
+
+.marketing-icon {
+    width: 40px;
+    height: 30px;
+    border-radius: 50px;
+    background-color: violet;
+    text-align: center;
+    font-size: 20px;
+}
+
+.support-icon {
+    width: 40px;
+    height: 30px;
+    border-radius: 50px;
+   background-color: pink;
+    text-align: center;
+    font-size: 20px;
+}
+button {
+    align-items: center;
+    background-color: #E949A3;
+    color: white;
+    height: 30px;
+    width: 130px;
+    border: 2px solid #E949A3;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
